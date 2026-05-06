@@ -18,21 +18,21 @@ If you have contributed to any PakePlus repository, or have promoted PakePlus th
 
 After receiving your activation code, go to the top-right corner of the PakePlus homepage, click on your avatar, and enter the **My Profile** page:
 
-![](../../static/imgs/active1.webp)
+![](../static/imgs/active1.webp)
 
 Then click the **Upgrade** button and enter your activation code:
 
-![](../../static/imgs/active3.webp)
+![](../static/imgs/active3.webp)
 
 For support on Windows 7, XP, and Linux ARM systems, you will need to manually agree before using the feature:
 
-![](../../static/imgs/active4.webp)
+![](../static/imgs/active4.webp)
 
 **Private Projects**: The packaged content will be stored in your private GitHub repository, accessible only by you.
 
 **Windows 7 & XP Support**: Supports packaging with Electron, including compatibility with Windows 7 and domestic Linux ARM systems. Simply select the Electron version when publishing:
 
-![](../../static/imgs/electron2.webp)
+![](../static/imgs/electron2.webp)
 
 ---
 
